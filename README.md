@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @Blaxxxoh
+- 👀 I’m interested in
+- ...
+Blaxxxoh/Blaxxxoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Blaxxxoh/Blaxxxoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+https://github-enterprise.s3.amazonaws.com/kvm/updates/github-enterprise-kvm-3.12.0.pkgConsensys Software Inc. (“Consensys,” “we,” “us,” or “our”) is the leading blockchain software development company. With a focus on utilizing decentralized technologies, such as Ethereum, our software is powering a revolution in commerce and finance and helping to optimize business processes. Consensys hosts a top level domain website, https://consensys.io/, that serves information regarding Consensys and our products and services (collectively, the “Offerings”), as well as sub-domains for our products or services (the top level domain with the sub-domains collectively referred to as the “Site”), which include text, images, audio, code and other materials or third party information.
+
+These Terms of Use, including their appendix (the “Terms,” “Terms of Use” or “Agreement”) contain the terms and conditions that govern your access to and use of the Site and Offerings provided by us and is an agreement between us and you or the entity you represent 
+
